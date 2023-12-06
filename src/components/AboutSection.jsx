@@ -36,12 +36,20 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
-        <li>SQL and Relational Databases - Cognitive Class</li>
+        <li> SQL and Relational Databases - Cognitive Class</li>
         <li>
           Fundamentos profesionales del desarrollo de software - Microsoft and
           LinkedIn
         </li>
-        <li> Getting Started with Data Analytics on AWS - AWS</li>
+        <li> Getting Started With Data Analytics on AWS - AWS</li>
+        <li> Programacion con Javascript - Fundacion Telefonica</li>
+        <li> Diseño web con HTML5 + CSS - Fundacion Telefonica</li>
+        <li> Aprende Wordpress de manera sencilla - Fundacion Telefonica</li>
+        <li> Web Development - Mimo</li>
+        <li> Python - Mimo</li>
+        <li> SQL - Mimo</li>
+        <li> HTML - Mimo</li>
+        <li> Javascript - Mimo</li>
       </ul>
     ),
   },

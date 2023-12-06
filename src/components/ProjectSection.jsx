@@ -20,7 +20,7 @@ const projectData = [
     image: "/images/projects/Project_2.png",
     tag: ["Projects"],
     gitUrl: "https://github.com/PedroMolina17/Crud_React.git",
-    previewUrl: "/",
+    previewUrl: "/images/projects/Project_2.png",
   },
   {
     id: "3",
@@ -38,7 +38,7 @@ const projectData = [
     image: "/images/certificates/Certificate_2c.png",
     tag: ["Certificates"],
     gitUrl: "https://github.com/PedroMolina17/Crud_React.git",
-    previewUrl: "/",
+    previewUrl: "/images/certificates/Certificate_2c.png",
   },
   {
     id: "5",
@@ -47,7 +47,7 @@ const projectData = [
     image: "/images/certificates/Certificate_3c.png",
     tag: ["Certificates"],
     gitUrl: "https://github.com/PedroMolina17/Crud_React.git",
-    previewUrl: "/",
+    previewUrl: "/images/certificates/Certificate_3c.png",
   },
   {
     id: "6",
@@ -56,7 +56,7 @@ const projectData = [
     image: "/images/certificates/Certificate_4c.png",
     tag: ["Certificates"],
     gitUrl: "https://github.com/PedroMolina17/Crud_React.git",
-    previewUrl: "/",
+    previewUrl: "/images/certificates/Certificate_4c.png",
   },
   {
     id: "7",
@@ -65,7 +65,7 @@ const projectData = [
     image: "/images/certificates/Certificate_5c.png",
     tag: ["Certificates"],
     gitUrl: "https://github.com/PedroMolina17/Crud_React.git",
-    previewUrl: "/",
+    previewUrl: "/images/certificates/Certificate_5c.png",
   },
   {
     id: "8",
@@ -74,7 +74,7 @@ const projectData = [
     image: "/images/certificates/Certificate_6c.png",
     tag: ["Certificates"],
     gitUrl: "https://github.com/PedroMolina17/Crud_React.git",
-    previewUrl: "/",
+    previewUrl: "/images/certificates/Certificate_6c.png",
   },
   {
     id: "9",
@@ -83,7 +83,7 @@ const projectData = [
     image: "/images/certificates/Certificate_7c.png",
     tag: ["Certificates"],
     gitUrl: "https://github.com/PedroMolina17/Crud_React.git",
-    previewUrl: "/",
+    previewUrl: "/images/certificates/Certificate_7c.png",
   },
   {
     id: "10",
@@ -92,7 +92,7 @@ const projectData = [
     image: "/images/certificates/Certificate_8c.png",
     tag: ["Certificates"],
     gitUrl: "https://github.com/PedroMolina17/Crud_React.git",
-    previewUrl: "/",
+    previewUrl: "/images/certificates/Certificate_8c.png",
   },
   {
     id: "11",
@@ -101,7 +101,7 @@ const projectData = [
     image: "/images/certificates/Certificate_9c.png",
     tag: ["Certificates"],
     gitUrl: "https://github.com/PedroMolina17/Crud_React.git",
-    previewUrl: "/",
+    previewUrl: "/images/certificates/Certificate_9c.png",
   },
   {
     id: "12",
@@ -110,7 +110,7 @@ const projectData = [
     image: "/images/certificates/Certificate_10c.png",
     tag: ["Certificates"],
     gitUrl: "https://github.com/PedroMolina17/Crud_React.git",
-    previewUrl: "/",
+    previewUrl: "/images/certificates/Certificate_10c.png",
   },
   {
     id: "13",
@@ -119,7 +119,7 @@ const projectData = [
     image: "/images/certificates/Certificate_11c.png",
     tag: ["Certificates"],
     gitUrl: "https://github.com/PedroMolina17/Crud_React.git",
-    previewUrl: "/",
+    previewUrl: "/images/certificates/Certificate_11c.png",
   },
 ];
 
@@ -142,7 +142,7 @@ const ProjectSection = () => {
   };
 
   return (
-    <section>
+    <section id="projects">
       <h2 className="text-center text-4xl font-bold text-white mt-4 mb-4 ">
         Project Section
       </h2>
